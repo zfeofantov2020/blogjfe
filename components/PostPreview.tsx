@@ -24,6 +24,7 @@ const PostPreview = (props : PostMetadata) => {
   <div className="flex flex-wrap ml-10">
     <span className="px-2 py-1 bg-gray-200 text-gray-600 text-sm rounded-full mr-2 mb-2">{props.tags}</span>
   </div>
+  
 </div>
   </div>
 </div>
